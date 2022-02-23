@@ -19,8 +19,8 @@
     'depends': ['base'],
 
     'data': [
-        'security/academy_security.xml',
-        'security/ir.model.access.csv',
+        #  'security/academy_security.xml',
+        # 'security/ir.model.access.csv',
 
 
     ],
